@@ -14,3 +14,5 @@ Recommendations of the most attractive neighborhoods and property sizes for vaca
 7. [Future Work and Enhancements](#future-work-and-enhancements)
 
 ![image](https://github.com/user-attachments/assets/723fa950-41f8-455d-b8db-7ca2622846a7)
+
+![image](https://github.com/user-attachments/assets/9aec7893-5c17-42f1-ac00-c9253054a3de)
