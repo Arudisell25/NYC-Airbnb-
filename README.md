@@ -12,3 +12,5 @@ Recommendations of the most attractive neighborhoods and property sizes for vaca
 5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 6. [Conclusion and Recommendations](#conclusion-and-recommendations)
 7. [Future Work and Enhancements](#future-work-and-enhancements)
+
+![image](https://github.com/user-attachments/assets/723fa950-41f8-455d-b8db-7ca2622846a7)
