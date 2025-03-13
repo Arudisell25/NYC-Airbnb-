@@ -5,7 +5,7 @@ Recommendations of the most attractive neighborhoods and property sizes for vaca
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)        
+1. [Project Overview](#project-overview)        [https://docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1QKElUT1mJgvA6PQG9uEpk2rUXVyUHzoESwO55utb_B8/edit?gid=1089552142#gid=1089552142)
 2. [Data Sources](#data-sources)
 3. [Tools and Technologies Used](#tools-and-technologies-used)
 4. [Data Preparation and Cleaning](#data-preparation-and-cleaning)
